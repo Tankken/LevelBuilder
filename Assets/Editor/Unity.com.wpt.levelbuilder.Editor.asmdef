@@ -1,0 +1,17 @@
+{
+    "name": "Unity.com.WPT.LevelBuilder.Editor",
+    "references": [
+        "GUID:542e191d8da8020438833a01faf13d12"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

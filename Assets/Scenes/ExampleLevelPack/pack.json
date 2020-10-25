@@ -1,0 +1,12 @@
+{
+  "name": "Example Level Pack",
+  "desc": "Demonstrate the features of the level builder",
+  "version" : "1.0",
+  "author": "RRSoftware",
+  "mode": 0,
+  "formatVersion": 1,
+  "levels": [
+    "Level.xml",
+    "Level2.xml"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "com.wpt.levelbuilder",
+  "version": "1.0.0",
+  "displayName": "WPT Level Builder",
+  "description": "This is the WPT level builder",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+   
+  },
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ]
+}
