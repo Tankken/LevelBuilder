@@ -1,6 +1,6 @@
 ﻿
-public enum GameModes
+public enum GameType
 {
-    CCG = 0,
-    BG = 1
+    Campaign = 0,
+    Battle = 1
 }
