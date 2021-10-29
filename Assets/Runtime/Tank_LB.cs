@@ -8,7 +8,7 @@ public class S_Tank : obj
     public ushort type;
 }
 
-public class Tank : EditorObjectBase
+public class Tank_LB : EditorObjectBase
 {
     
     public TankIdentifiers TankType;
