@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-public enum TankIdentifiers { PLAYER, BROWN, GRAY, YELLOW, RED, PURPLE, GREEN, BLUE, WHITE, BLACK, PINK, BOXING, SATELLITE }
+public enum TankIdentifiers { PLAYER, BROWN, GRAY, YELLOW, RED, PURPLE, GREEN, BLUE, WHITE, BLACK, PINK}
 
 public class S_Tank : obj
 {
